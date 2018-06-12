@@ -61,9 +61,6 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="UserFolder\UserEvents.cs" />
-    <Compile Include="UserFolder\UserInfo.cs" />
-    <Compile Include="UserFolder\UserMails.cs" />
     <None Include="app.config" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Info.plist" />
