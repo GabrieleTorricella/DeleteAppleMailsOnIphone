@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAppleMailsOnIphone", "DeleteAppleMailsOnIphone\DeleteAppleMailsOnIphone.csproj", "{85CD1112-BEC5-4B2D-BDBD-2F33784CDBCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteMail.IOS", "DeleteAppleMailsOnIphone\DeleteMail.IOS.csproj", "{85CD1112-BEC5-4B2D-BDBD-2F33784CDBCE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteMail.Android", "DeleteMail\DeleteMail.Android\DeleteMail.Android.csproj", "{9E90B313-10DB-457A-A7D1-5DF0990D2407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteMail", "DeleteMail\DeleteMail\DeleteMail.csproj", "{2EA32731-8FB0-4032-8522-8E23E4FAC4E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteMail", "DeleteMail\DeleteMail\DeleteMail.csproj", "{2EA32731-8FB0-4032-8522-8E23E4FAC4E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
